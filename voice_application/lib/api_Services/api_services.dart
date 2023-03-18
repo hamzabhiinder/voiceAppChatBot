@@ -4,7 +4,7 @@ import 'dart:developer';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
-String api_Key = "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";
+
 
 class ApiService {
   static String baseUrl = "https://api.openai.com/v1/completions";
